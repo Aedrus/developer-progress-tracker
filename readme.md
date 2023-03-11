@@ -4,12 +4,12 @@
 [Table of Contents](#table-of-contents)
 
 ## Introduction
-This simple tracker outlines a list of milestones related to my development journey. The goal is to clear out a road from where my journey began and where it is going. It will also list accomplishments that I can reference in the future. It will cover a range of development topics and anything related to the process of developing websites and apps (design):
+This simple tracker outlines every step related to my development career. It will also list accomplishments and other milestones. Covered below is a range of development, design, and business-oriented topics:
 * __Technologies/Skills Covered__ - Broken into levels of current proficiency.
 * __Studied Topics__ - Showing date completed and source of learning + certificates.
 * __Goals & Future Plans__ - Things I'd like to learn next.
 
-This tracker is based on the [learning tracker](https://github.com/Syknapse/My-Learning-Tracker) by Syknapse, which I recommend checking out.
+This tracker is based on the [learning tracker](https://github.com/Syknapse/My-Learning-Tracker) by Syknapse.
 
 ## Technology Mastery
 | Skill | 1 - Basic | 2 - Novice | 3 - Intermediate | 4 - Advanced |
@@ -69,6 +69,7 @@ This tracker is based on the [learning tracker](https://github.com/Syknapse/My-L
 ## Studied Topics & Coursework
 | Topic | Date | Source | Certificate |
 |-------|-----------------|------------|------------------|
+|Harvard CS50 Course | In Progress | Self-Study | N/A                 
 |SEO Techniques | January 2023 | Self-Study | N/A                 
 |Websocket Basics | January 2023 | Self-Study | N/A                 
 |TypeScript Basics (Typing, limiting, interfaces) | January 2023 | Self-Study | N/A                 
@@ -99,4 +100,13 @@ This tracker is based on the [learning tracker](https://github.com/Syknapse/My-L
 |Framework | Use Anime.js in a project    |               
 |Community | Contribute to a repository (Game Mod)    |               
 |Backend Study | Start learning PHP    |               
-|Backend Study | Start learning MySQL    |               
+|Backend Study | Start learning MySQL    |   
+
+## BONUS: Project Ideas
+| Name | Utility |
+|-------|-----------------|
+|Math App | Offers randomly generated math problems to help children practice their math.|               
+|Ring eCommerce | An eCommerce shop that sells rings|               
+|Job Board | An intuitive website that aggregates job postings from around the internet|              
+|Game Map App | An interactive, full scale map of a video game world with POIs and other details|              
+           
