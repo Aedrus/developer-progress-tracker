@@ -14,7 +14,7 @@ This tracker is based on the [learning tracker](https://github.com/Syknapse/My-L
 ## Technology Mastery
 | Skill | 1 - Basic | 2 - Novice | 3 - Intermediate | 4 - Advanced |
 |-------|-----------------|------------|------------------|--------------|
-|__♦ Front-End Skills__-------
+|__♦ Front-End Skills__--------|
 |__HTML(5)__|√                |√            |√                  |√              |
 |__HTML Web Components__|√                |√            |                  |              |
 |__CSS__    |√                 |√            |√                  |              |
@@ -50,7 +50,8 @@ This tracker is based on the [learning tracker](https://github.com/Syknapse/My-L
 |__NPM__|√                 |√            |                  |              |
 |__Responsive Design__   |√                 |√            |                  |              |
 |__Accessibility__   |√                 |√            |                  |              |
-|__♦ Back-End Skills__ -------
+|__♦ Back-End Skills__ --------|
+|__C__   |√                 |            |                  |              |
 |__Python__   |                 |            |                  |              |
 |__PHP__   |                 |            |                  |              |
 |__Ruby__   |                 |            |                  |              |
@@ -106,7 +107,8 @@ This tracker is based on the [learning tracker](https://github.com/Syknapse/My-L
 | Name | Utility |
 |-------|-----------------|
 |Math App | Offers randomly generated math problems to help children practice their math.|               
-|Ring eCommerce | An eCommerce shop that sells rings|               
-|Job Board | An intuitive website that aggregates job postings from around the internet|              
-|Game Map App | An interactive, full scale map of a video game world with POIs and other details|              
+|Ring eCommerce | An eCommerce shop that sells rings.|               
+|Job Board | An intuitive website that aggregates job postings from around the internet.|              
+|Game Map App | An interactive, full scale map of a video game world with POIs and other details.|              
+|Rule-Based Game | A game that relies on defined rules, with a start and end point.|              
            
