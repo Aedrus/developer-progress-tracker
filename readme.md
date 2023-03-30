@@ -3,13 +3,21 @@
 ## Table of Contents
 [Table of Contents](#table-of-contents)
 
-## Introduction
-This simple tracker outlines every step related to my development career. It will also list accomplishments and other milestones. Covered below is a range of development, design, and business-oriented topics:
-* __Technologies/Skills Covered__ - Broken into levels of current proficiency.
-* __Studied Topics__ - Showing date completed and source of learning + certificates.
-* __Goals & Future Plans__ - Things I'd like to learn next.
+[Introduction](#introduction)
 
-This tracker is based on the [learning tracker](https://github.com/Syknapse/My-Learning-Tracker) by Syknapse.
+[Technology Mastery Table](#technology-mastery)
+
+[Studied Topics & Coursework](#studied-topics--coursework)
+
+[Future Goals](#future-goals--topics-to-study)
+
+[Final Thoughts](#final-thoughts)
+
+## Introduction
+This lightweight tracker outlines every milestone in my development career, now and beyond. It will also list specific educational accomplishments and my mastery of certain concepts. Some of the categories below include:
+* __Technologies/Skills Mastered__ - Proficiency and knowledge of technologies split into levels. Each checkmark denotes the level of knowledge attained.
+* __Studied Topics__ - Topics studied with date completed and source of learning.
+* __Goals & Future Plans__ - Things I'd like to learn next and goals I'm reaching for.
 
 ## Technology Mastery
 | Skill | 1 - Basic | 2 - Novice | 3 - Intermediate | 4 - Advanced |
@@ -91,9 +99,9 @@ This tracker is based on the [learning tracker](https://github.com/Syknapse/My-L
 |JavaScript 1 - Basics (Variables, Loops, etc.) | ~2020 | Self-Study | N/A                 
 |Web Design 1 (HTML+CSS) | December 2019 | A.S. Degree (SPC) | N/A                 
 |HTML & CSS with Dreamweaver |August 2016 |High School Elective | Y (Expired)|
-* __Self-study__ is any focused, self-driven studying completed without the help of a tutor, course, or degree plan.
+* __Self-study__ is any focused, self-driven studying completed without the help of an instructor or degree plan. May involve the use of a course and a mix of experiential and theoretical studying.
 
-## Futue Goals & Topics to Study
+## Future Goals & Topics to Study
 | Category | Topic/Goal |
 |-------|-----------------|
 |Framework | Use React + Bootstrap in a new project   |               
@@ -111,4 +119,15 @@ This tracker is based on the [learning tracker](https://github.com/Syknapse/My-L
 |Job Board | An intuitive website that aggregates job postings from around the internet.|              
 |Game Map App | An interactive, full scale map of a video game world with POIs and other details.|              
 |Rule-Based Game | A game that relies on defined rules, with a start and end point.|              
+
+## Final Thoughts
+This tracker is based on the [learning tracker](https://github.com/Syknapse/My-Learning-Tracker) by Syknapse. I recommend checking it out.
+
+Additionally, you are free to use my tracker as a source of inspiration in any way you see fit. 
+
+As always, I strongly advocate for the continual pursuit of higher knowledge, grand goals, and anything that makes you a better human in the long-run. 
+
+So go out and grab your destiny.
+
+I wish you the best.
            
