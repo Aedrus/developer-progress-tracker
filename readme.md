@@ -119,6 +119,7 @@ This lightweight tracker outlines every milestone in my development career, now 
 |Job Board | An intuitive website that aggregates job postings from around the internet.|              
 |Game Map App | An interactive, full scale map of a video game world with POIs and other details.|              
 |Rule-Based Game | A game that relies on defined rules, with a start and end point.|              
+|Recipe Tracking App | An extremely intuitive and easy-to-use app that tracks recipes for solo-living. Easy to input new recipes with ease.|              
 
 ## Final Thoughts
 This tracker is based on the [learning tracker](https://github.com/Syknapse/My-Learning-Tracker) by Syknapse. I recommend checking it out.
