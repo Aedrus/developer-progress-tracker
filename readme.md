@@ -120,6 +120,7 @@ This lightweight tracker outlines every milestone in my development career, now 
 |Game Map App | An interactive, full scale map of a video game world with POIs and other details.|              
 |Rule-Based Game | A game that relies on defined rules, with a start and end point.|              
 |Recipe Tracking App | An extremely intuitive and easy-to-use app that tracks recipes for solo-living. Easy to input new recipes with ease.|              
+|Customer Billing System (C) | A system for keeping track of a business's customer data/purchases for billing invoices.|              
 
 ## Final Thoughts
 This tracker is based on the [learning tracker](https://github.com/Syknapse/My-Learning-Tracker) by Syknapse. I recommend checking it out.
@@ -128,7 +129,7 @@ Additionally, you are free to use my tracker as a source of inspiration in any w
 
 As always, I strongly advocate for the continual pursuit of higher knowledge, grand goals, and anything that makes you a better human in the long-run. 
 
-So go out and grab your destiny.
+So go and chase your destiny.
 
 I wish you the best.
            
