@@ -121,6 +121,7 @@ This lightweight tracker outlines every milestone in my development career, now 
 |Rule-Based Game | A game that relies on defined rules, with a start and end point.|              
 |Recipe Tracking App | An extremely intuitive and easy-to-use app that tracks recipes for solo-living. Easy to input new recipes with ease.|              
 |Customer Billing System (C) | A system for keeping track of a business's customer data/purchases for billing invoices.|              
+|RPG or CYOA GAME (C) | A fantasy game where you choose your own adventure by selecting from an array of  options to continue the story.|              
 
 ## Final Thoughts
 This tracker is based on the [learning tracker](https://github.com/Syknapse/My-Learning-Tracker) by Syknapse. I recommend checking it out.
