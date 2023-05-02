@@ -122,6 +122,7 @@ This lightweight tracker outlines every milestone in my development career, now 
 |Recipe Tracking App | An extremely intuitive and easy-to-use app that tracks recipes for solo-living. Easy to input new recipes with ease.|              
 |Customer Billing System (C) | A system for keeping track of a business's customer data/purchases for billing invoices.|              
 |RPG or CYOA GAME (C) | A fantasy game where you choose your own adventure by selecting from an array of  options to continue the story.|              
+|AI Shopping Helper App | An easy-to-use app that uses AI to quickly create a sorted shopping list based on user-input by hand or through voice. Extra features may be shopping tips, deals, nutritional information, and some sort of integration with your store of choice such that you are given the exact aisle or route for items to save time.|              
 
 ## Final Thoughts
 This tracker is based on the [learning tracker](https://github.com/Syknapse/My-Learning-Tracker) by Syknapse. I recommend checking it out.
