@@ -20,7 +20,7 @@ This lightweight tracker outlines every milestone in my development career, now 
 * __Goals & Future Plans__ - Things I'd like to learn next and goals I'm reaching for.
 
 ## Technology Mastery
-| Skill | 1 - Basic | 2 - Novice | 3 - Intermediate | 4 - Advanced |
+| Skill | 1 - Basic | 2 - Competent | 3 - Advanced | 4 - Proficient |
 |-------|-----------------|------------|------------------|--------------|
 |__♦ Front-End Skills__--------|
 |__HTML(5)__|√                |√            |√                  |√              |
@@ -28,7 +28,7 @@ This lightweight tracker outlines every milestone in my development career, now 
 |__CSS__    |√                 |√            |√                  |              |
 |__SCSS__   |√                 |√            |                  |              |
 |__Stylus__   |                |            |                  |              |
-|__Bootstrap__|√                 |√            |                  |              |
+|__Bootstrap__|√                 |            |                  |              |
 |__Bulma__|                 |            |                  |              |
 |__Tailwind CSS__|                 |            |                  |              |
 |__Materialize__|                 |            |                  |              |
@@ -36,7 +36,6 @@ This lightweight tracker outlines every milestone in my development career, now 
 |__UIkit__|                 |            |                  |              |
 |__Miligram__|                 |            |                  |              |
 |__JavaScript__|√                 |√            |√                  |              |
-|__Async JavaScript__|√                 |            |                  |              |
 |__Node.js__    |√                 |            |                  |              |
 |__Express.js__    |                |            |                  |              |
 |__TypeScript__    |√                 |            |                  |              |
@@ -76,7 +75,7 @@ This lightweight tracker outlines every milestone in my development career, now 
 |__Hashing__   |                 |            |                  |              |
 
 ## Studied Topics & Coursework
-| Topic | Date | Source | Certificate |
+| Topic |Date Cmplt. | Source | Certificate |
 |-------|-----------------|------------|------------------|
 |Harvard CS50 Course | In Progress | Self-Study | N/A                 
 |SEO Techniques | January 2023 | Self-Study | N/A                 
@@ -133,9 +132,7 @@ This tracker is based on the [learning tracker](https://github.com/Syknapse/My-L
 
 Additionally, you are free to use my tracker as a source of inspiration in any way you see fit. 
 
-As always, I strongly advocate for the continual pursuit of higher knowledge, grand goals, and anything that makes you a better human in the long-run. 
-
-So go and chase your destiny.
+As always, I strongly urge you, my dear reader, to continue pursuing higher knowledge, mental fortitude, and anything that makes you a better human. 
 
 I wish you the best.
            
