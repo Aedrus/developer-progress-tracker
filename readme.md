@@ -125,7 +125,7 @@ This lightweight tracker outlines every milestone in my development career, now 
 |AI Copy Generator | An online tool that can generate text or copy using new advancements in AI—with something like OpenAI. Should have a nice UI with the ability for the user to enter some prompt and get text back with a unique twist. You could choose to design based on a niche or make it more open-ended.|              
 |Online Code Editor | An online code editor much like Github workspaces's use of VSCode or Code Academy. Should allow for basic editing of source code and an intuitive user interface.|              
 |Social Media App | A simple social media app that allows users to communicate, see each other, and post messages. Should involve basic front-end as well as backend tech like node, mongoDB, or MySQL.|              
-|Novel Writing CMS Web App | A website that allows users to write and manage their stories and information. It should allow for specific elements of a story (Character, setting, chapters, etc.) to be written and stored. It should improve upon similar apps on the internet and do something different to offer the best space for authors to write their stor|              
+|Novel Writing CMS Web App | A website that allows users to write and manage their stories and information. It should allow for specific elements of a story (Character, setting, chapters, etc.) to be written and stored. It should improve upon similar apps on the internet and do something different to offer the best space for authors to write their story.|              
 
 ## Final Thoughts
 This tracker is based on the [learning tracker](https://github.com/Syknapse/My-Learning-Tracker) by Syknapse. I recommend checking it out.
