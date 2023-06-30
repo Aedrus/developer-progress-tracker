@@ -36,8 +36,8 @@ This lightweight tracker outlines every milestone in my development career, now 
 |__UIkit__|                 |            |                  |              |
 |__Miligram__|                 |            |                  |              |
 |__JavaScript__|√                 |√            |√                  |              |
-|__Node.js__    |√                 |            |                  |              |
-|__Express.js__    |                |            |                  |              |
+|__Node.js__    |√√                 |            |                  |              |
+|__Express.js__    |√                |            |                  |              |
 |__TypeScript__    |√                 |            |                  |              |
 |__JQuery__|                 |            |                  |              |
 |__InfoVis__|                 |            |                  |              |
@@ -65,10 +65,10 @@ This lightweight tracker outlines every milestone in my development career, now 
 |__Java__   |                 |            |                  |              |
 |__MySQL__   |               |            |                  |              |
 |__PostgreSQL__   |               |            |                  |              |
-|__MongoDB__   |                 |            |                  |              |
+|__MongoDB__   |√                 |            |                  |              |
 |__AWS__   |                 |            |                  |              |
-|__Networking__   |                 |            |                  |              |
-|__HTTP/HTTPS__   |                 |            |                  |              |
+|__Networking__   |√                 |            |                  |              |
+|__HTTP/HTTPS__   |√                 |            |                  |              |
 |__Websockets__   |                 |            |                  |              |
 |__CI/CD__   |                 |            |                  |              |
 |__Authentication__   |                 |            |                  |              |
@@ -125,7 +125,8 @@ This lightweight tracker outlines every milestone in my development career, now 
 |AI Copy Generator | An online tool that can generate text or copy using new advancements in AI—with something like OpenAI. Should have a nice UI with the ability for the user to enter some prompt and get text back with a unique twist. You could choose to design based on a niche or make it more open-ended.|              
 |Online Code Editor | An online code editor much like Github workspaces's use of VSCode or Code Academy. Should allow for basic editing of source code and an intuitive user interface.|              
 |Social Media App | A simple social media app that allows users to communicate, see each other, and post messages. Should involve basic front-end as well as backend tech like node, mongoDB, or MySQL.|              
-|Novel Writing CMS Web App | A website that allows users to write and manage their stories and information. It should allow for specific elements of a story (Character, setting, chapters, etc.) to be written and stored. It should improve upon similar apps on the internet and do something different to offer the best space for authors to write their story.|              
+|Novel Writing CMS Web App | A website that allows users to write and manage their stories and information. It should allow for specific elements of a story (Character, setting, chapters, etc.) to be written and stored. It should improve upon similar apps on the internet and do something different to offer the best space for authors to write their story.|
+|Mantra Generator/Timer App | A simple tool that allows you to input 1 or more mantras and then have it print out to you the mantra(s) every few seconds. This idea could expand into the use of AI, creative idea, or APIs.|                 
 
 ## Final Thoughts
 This tracker is based on the [learning tracker](https://github.com/Syknapse/My-Learning-Tracker) by Syknapse. I recommend checking it out.
