@@ -38,7 +38,7 @@ This lightweight tracker outlines every milestone in my development career, now 
 |__JavaScript__|√                 |√            |√                  |              |
 |__Async JavaScript__|√                 |            |                  |              |
 |__Node.js__    |√                 |            |                  |              |
-|__Express.js__    |                |            |                  |              |
+|__Express.js__    |√                |            |                  |              |
 |__TypeScript__    |√                 |            |                  |              |
 |__JQuery__|                 |            |                  |              |
 |__InfoVis__|                 |            |                  |              |
@@ -66,12 +66,12 @@ This lightweight tracker outlines every milestone in my development career, now 
 |__Java__   |                 |            |                  |              |
 |__MySQL__   |               |            |                  |              |
 |__PostgreSQL__   |               |            |                  |              |
-|__MongoDB__   |                 |            |                  |              |
+|__MongoDB__   |√                 |            |                  |              |
 |__AWS__   |                 |            |                  |              |
-|__Networking__   |                 |            |                  |              |
-|__HTTP/HTTPS__   |                 |            |                  |              |
+|__Networking__   |√                 |            |                  |              |
+|__HTTP/HTTPS__   |√                 |            |                  |              |
 |__Websockets__   |                 |            |                  |              |
-|__CI/CD__   |                 |            |                  |              |
+|__CI/CD__   |√                 |            |                  |              |
 |__Authentication__   |                 |            |                  |              |
 |__Hashing__   |                 |            |                  |              |
 
@@ -122,6 +122,7 @@ This lightweight tracker outlines every milestone in my development career, now 
 |Recipe Tracking App | An extremely intuitive and easy-to-use app that tracks recipes for solo-living. Easy to input new recipes with ease.|              
 |Customer Billing System (C) | A system for keeping track of a business's customer data/purchases for billing invoices.|              
 |RPG or CYOA GAME (C) | A fantasy game where you choose your own adventure by selecting from an array of  options to continue the story.|              
+|Mantra Generator/Timer App | A simple tool that allows you to input 1 or more mantras and then have it print out to you the mantra(s) every few seconds. This idea could expand into the use of AI, creative idea, or APIs.|              
 
 ## Final Thoughts
 This tracker is based on the [learning tracker](https://github.com/Syknapse/My-Learning-Tracker) by Syknapse. I recommend checking it out.
