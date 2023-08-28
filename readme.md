@@ -45,7 +45,7 @@ This lightweight tracker outlines a variety of milestones tucked under clean and
 |__React__   |√                 |√            |                  |              |
 |__Redux (React)__   |                 |            |                  |              |
 |__Next.js (React)__   |                 |            |                  |              |
-|__Angular__   |                 |            |                  |              |
+|__Angular__   |√                 |            |                  |              |
 |__Vue.js__   |                 |            |                  |              |
 |__Ember.js__   |                 |            |                  |              |
 |__Polymer__   |                 |            |                  |              |
@@ -70,8 +70,9 @@ This lightweight tracker outlines a variety of milestones tucked under clean and
 |__HTTP/HTTPS__   |√                 |            |                  |              |
 |__Websockets__   |                 |            |                  |              |
 |__CI/CD__   |                 |            |                  |              |
-|__Authentication__   |                 |            |                  |              |
-|__Hashing__   |                 |            |                  |              |
+|__Authentication__   |√                 |            |                  |              |
+|__Hashing__   |√                 |            |                  |              |
+|__Database Schemas__ |√              |√         |               |           |
 
 ## Studied Topics & Coursework
 | Topic |Date Cmplt. | Source | Certificate |
@@ -100,14 +101,15 @@ This lightweight tracker outlines a variety of milestones tucked under clean and
 * __Self-study__ is any focused, self-driven studying completed without the help of an instructor or degree plan. May involve the use of a course and a mix of experiential and theoretical studying.
 
 ## Future Goals & Topics to Study
-| Category | Topic/Goal |
+| Category | Topic/Goal | 
 |-------|-----------------|
-|Framework | Use React + Bootstrap in a new project   |               
-|Framework | Use React + Tailwind in a new project    |               
-|Framework | Use Anime.js in a project    |               
-|Community | Contribute to a repository (Game Mod)    |               
-|Backend Study | Start learning PHP    |               
-|Backend Study | Start learning MySQL    |   
+|~~Framework | Use React + Bootstrap in a new project   | |               
+|Framework | Use React + Tailwind in a new project    | |              
+|Framework | Use Anime.js in a project    |  |             
+|Community | Contribute to a repository (Game Mod)    |      |         
+|Backend Study | Start learning PHP    |        |       
+| Backend Study | Start learning MySQL    |
+| Backend Study | Complete Full-stack Project    |
 
 ## BONUS: Project Ideas
 | Name | Utility |
