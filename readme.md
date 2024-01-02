@@ -77,6 +77,7 @@ This lightweight tracker outlines a variety of milestones tucked under clean and
 ## Studied Topics & Coursework
 | Topic |Date Cmplt. | Source | Certificate |
 |-------|-----------------|------------|------------------|
+|Project Odin JavaScript FullStack Course | In Progress | Self-Study | N
 |Harvard CS50 Course | December 2023 | Self-Study | Y                 
 |SEO Techniques | January 2023 | Self-Study | N/A                 
 |Websocket Basics | January 2023 | Self-Study | N/A                 
