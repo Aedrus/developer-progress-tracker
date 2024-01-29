@@ -49,20 +49,21 @@ This lightweight tracker outlines a variety of milestones tucked under clean and
 |__Vue.js__   |                 |            |                  |              |
 |__Ember.js__   |                 |            |                  |              |
 |__Polymer__   |                 |            |                  |              |
-|__API's & Data__    |√                 |√            |                  |              |
-|__JSON__    |√                 |√            |√                  |              |
-|__GitHub + Git__   |√                 |√            |√                  |              |
-|__Netlify__   |                 |            |                  |              |
+|__API's__    |√                 |√            |                  |              |
+|__JSON__    |√                 |√            |√                  |√              |
+|__GitHub + Git__   |√                 |√            |                  |              |
+|__Netlify__   |√                 |            |                  |              |
 |__NPM__|√                 |√            |                  |              |
 |__Responsive Design__   |√                 |√            |                  |              |
 |__Accessibility__   |√                 |√            |                  |              |
 |__♦ Back-End Skills__ --------|
 |__C__   |√                 |            |                  |              |
-|__Python__   |                 |            |                  |              |
-|__PHP__   |                 |            |                  |              |
+|__Python__   |√                 |            |                  |              |
+|__PHP__   |√                 |            |                  |              |
+|__Rust__   |√                 |            |                  |              |
 |__Ruby__   |                 |            |                  |              |
 |__Java__   |                 |            |                  |              |
-|__MySQL__   |               |            |                  |              |
+|__MySQL__   |√               |            |                  |              |
 |__PostgreSQL__   |               |            |                  |              |
 |__MongoDB__   |√                 |            |                  |              |
 |__AWS__   |                 |            |                  |              |
@@ -77,8 +78,9 @@ This lightweight tracker outlines a variety of milestones tucked under clean and
 ## Studied Topics & Coursework
 | Topic |Date Cmplt. | Source | Certificate |
 |-------|-----------------|------------|------------------|
+|Structure and Interpretation of Computer Programs | In Progress | Self-Study | N
 |Project Odin JavaScript FullStack Course | In Progress | Self-Study | N
-|Harvard CS50 Course | December 2023 | Self-Study | Y                 
+|Harvard CS50 Course | December 2023 | Self-Study | N                 
 |SEO Techniques | January 2023 | Self-Study | N/A                 
 |Websocket Basics | January 2023 | Self-Study | N/A                 
 |TypeScript Basics (Typing, limiting, interfaces) | January 2023 | Self-Study | N/A                 
@@ -115,7 +117,7 @@ This lightweight tracker outlines a variety of milestones tucked under clean and
 ## BONUS: Project Ideas
 | Name | Utility |
 |-------|-----------------|
-|Math App | Offers randomly generated math problems to help children practice their math.|               
+|Math App | Offers randomly generated math problems to help students practice their math.|               
 |Ring eCommerce | An eCommerce shop that sells rings.|               
 |Job Board | An intuitive website that aggregates job postings from around the internet.|              
 |Game Map App | An interactive, full-scale map of a video game world with POIs and other details.|              
@@ -136,8 +138,6 @@ This lightweight tracker outlines a variety of milestones tucked under clean and
 This tracker is based on the [learning tracker](https://github.com/Syknapse/My-Learning-Tracker) by Syknapse. I recommend checking it out.
 
 Additionally, you are free to use my tracker as a source of inspiration in any way you see fit. 
-
-As always, I strongly urge you, my dear reader, to continue pursuing higher knowledge, mental fortitude, and anything that makes you a better human during your lifespan. 
 
 Until next time.
            
